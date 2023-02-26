@@ -1,2 +1,2 @@
 # FAQ-Accordion-Bootstrap-4-JS
-This project showcases an example of an interactive accordion with a toggle button.
+This project showcases an example of an interactive accordion with a toggle button.This project showcases an example of an interactive accordion with a toggle button. The user can click on each card to show or hide its content, and can also use a toggle button to show or hide all the cards at once. The text on the button changes based on the state of the accordion (show or hide) and an arrow is also added to indicate whether the content is visible or hidden. This project uses HTML, CSS, and JavaScript to create an interactive and user-friendly experience.
